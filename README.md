@@ -14,6 +14,7 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 
 ### Campos García Karen Elizabeth 
 <img src="./imagenes/Karen.jpg" alt="Karen Campos" width="200"/>
+
 **Presentación:**  
 *"Soy estudiante de Ingeniería de Software, apasionada por Dios y el arte. Disfruto de la música, el dibujo y el deporte, combinando mi lado creativo con mi formación profesional para aprender algo nuevo cada día."*
 
