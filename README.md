@@ -1,4 +1,4 @@
-# Equipo de Arquitectura de software
+# Equipo de Interacción Humano Computadora
 
 En este repositorio se lleva un registro de las actividades necesarias para el desarrollo de los proyectos para la materia Interacción Humano Computadora. Les compartimos la información relacionada:
 
