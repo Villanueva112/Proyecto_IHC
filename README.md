@@ -36,6 +36,14 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 
 ---
 
+### Madera De Regil Capi
+<img src="./imagenes/Capi.jpg" alt="Capi Madera" width="200">
+
+**Presentación:**  
+*"Actualmente estoy cursando una Licenciatura en Ingeniería de Software. Soy apasionado, aventurero y decidido, con 3 años de experiencia en programación con C# aplicada al desarrollo de videojuegos. Gracias a mi experiencia, he adquirido pensamiento crítico y habilidades para la resolución de problemas, además de experiencia trabajando con equipos y liderándolos. Soy responsable, estoy motivado y con muchas ganas de aprender."*
+
+---
+
 ### Moo Pan Jareth Jaziel
 <img src="./imagenes/jareth.png" alt="Jareth Moo" width="200">
 
