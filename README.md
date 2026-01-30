@@ -6,7 +6,7 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 #### Interacción Humano Computadora
 
 ## 👨‍🏫 Maestro encargado
- - Vitor Hugo Menéndez Domínguez
+ - Victor Hugo Menéndez Domínguez
 
 # 👥 Integrantes del equipo
 
