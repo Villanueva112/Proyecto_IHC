@@ -51,11 +51,13 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 *"Soy Jareth Moo, un estudiante de ingeniería de software, apasionado por Dios, la tecnología, las matemáticas y, en general, todo el mudo informático. Me encanta disfrutar de mi tiempo libre, pero aprovecharlo también para aprender cosas nuevas."*
 
 ---
+
 ### Pool Chuc Martín Jesús
+<img src="./imagenes/martín.jpeg" alt="Martín Pool" width="200">
 
 **Presentación:**  
 *"Soy un estudiante de ingeniería de software, apasionado por la tecnología, y trabajando en un proyecto en YouTube. Me encanta disfrutar tiempo con amigos y aprender cosas nuevas."*
-<img src="./imagenes/martín.jpeg" alt="Martín Pool" width="200">
+
 ---
 
 ## Documentación:
