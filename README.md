@@ -62,4 +62,5 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 
 ## Documentación:
 
+[📂 Ver Presentación Preeliminar](./Presentacion_Preeliminar/)
 [📂 Ver Primera Entrega](./Primera_Entrega/)
